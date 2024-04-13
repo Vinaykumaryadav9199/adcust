@@ -84,7 +84,7 @@ const CanvasEditorComponent = () => {
         <canvas ref={canvasRef} height={1080} width={1080} style={{ height: '400px', width: '400px', backgroundColor:"transparent",}} />
         </div>
       </div>
-      <div className='w-1/2 h-full flex flex-col gap-2 justify-center items-center p-6'>
+      <div className='w-1/2 h-full flex flex-col gap-2 mt-10 items-center p-6'>
         <div>
           <h3 className=' text-center font-bold '>Ad customization</h3>
           <h4 className=' text-center text-xs text-gray-400'>Customise your ad and get the templates accordingly</h4>
