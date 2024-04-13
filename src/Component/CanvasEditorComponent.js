@@ -123,7 +123,7 @@ const CanvasEditorComponent = () => {
         </div>
         <div className=' flex   w-[80%] flex-col '>
           <div>
-            <p className='text-gray-400 text-xs'>Choose your color</p>
+            <p className='text-gray-400 text-xs mb-2'>Choose your color</p>
           </div>
           {/* Render the last 5 picked colors */}
           <div className=' flex  items-center gap-1'>
